@@ -54,10 +54,10 @@ git add README.md
 git commit -m "first commit"
 git remote add origin https://github.com/keeyanajones/Java-Problems.git
 git push -u origin master
-                
+</pre>                
 
 …or push an existing repository from the command line
-
+<pre>
 git remote add origin https://github.com/keeyanajones/Java-Problems.git
 git push -u origin master
 </pre>
@@ -68,7 +68,7 @@ You can initialize this repository with code from a Subversion, Mercurial, or TF
 ProTip! Use the URL for this page when adding GitHub as a remote. 
 
 ## status
-- STATUS : LOCAL TEST 6/7/2020 04:49:47 (as of 6/7/2020 08:49:47 Coordinated Universal Time (UTC) )
+- LOCAL TEST 6/7/2020 04:49:47 (as of 6/7/2020 08:49:47 Coordinated Universal Time (UTC))
 
 ## what's included
 Problem Solving Process:
@@ -84,15 +84,15 @@ Problem Solving Process:
 - Tell other users how to install your project locally. Optionally, include a gif to make the process even more clear for other people.
     
 ## Usage
-- instruct other people on how to use your project after they’ve installed it. This would also be a good place to include screenshots of your project in action.
-Typical Problem Solving Process:
-    - Probe and Read the problem completely twice, Define the problem completely twice and Determine the problems seriousness
-    - Analyze causes, Explore context, Think creatively to brainstorm possible solutions, Generate, and evaluate
-    - Choose the best solution alternatives and map out support
-    - Solve the problem manually with 3 sets of sample data implementing the solution
-    - Optimize and Write the manual steps as comments or pseudo-code
-    - Replace the comments or pseudo-code with real code
-    - Optimize the code
+- instruct other people on how to use your project after they’ve installed it. This would also be a good place to include screenshots of your project in action with typical Problem Solving Process:
+
+  - Probe and Read the problem completely twice, Define the problem completely twice and Determine the problems seriousness
+  - Analyze causes, Explore context, Think creatively to brainstorm possible solutions, Generate, and evaluate
+  - Choose the best solution alternatives and map out support
+  - Solve the problem manually with 3 sets of sample data implementing the solution
+  - Optimize and Write the manual steps as comments or pseudo-code
+  - Replace the comments or pseudo-code with real code
+  - Optimize the code
     
 ## bug and feature request
 
@@ -101,10 +101,10 @@ Typical Problem Solving Process:
 ## previous releases
 
 ## contributing
-  - contribution instructions are outlined. If you have specific contribution preferences, explain them so that other developers know how to best contribute to your work. To learn more about how to help others contribute, check out the guide for setting guidelines for repository contributors.
+  - send me an message explaining how to best contribute to the repository as a contributor.
 
 ## community
-  - Discord
+  - Discord Server Channel (Voice and Text)
  
 ## versioning
 - VERSION 3.6.1
