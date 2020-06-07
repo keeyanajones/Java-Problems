@@ -4,7 +4,6 @@ Finding solutions with algorithmic problem solving. Implement and apply algorith
 
 ## what is it
 - Common Java Problems
-- CREATED : Apr 15, 2018 (2014)
 
 How to implement and apply algorithms, understand performance analysis, parsing and formatting text, math, data structures, graphs and trees, dynamic programming, and computational geometry.  Common topics related to algorithms, success logs, things to revisit later, goals, and lessons learned. 
 
@@ -80,10 +79,10 @@ Problem Solving Process:
     - Replace the comments or pseudo-code with real code
     - Optimize the code
 
-## Installation
+## installation
 - Tell other users how to install your project locally. Optionally, include a gif to make the process even more clear for other people.
     
-## Usage
+## usage
 - instruct other people on how to use your project after they’ve installed it. This would also be a good place to include screenshots of your project in action with typical Problem Solving Process:
 
   - Probe and Read the problem completely twice, Define the problem completely twice and Determine the problems seriousness
@@ -99,6 +98,7 @@ Problem Solving Process:
 ## running documentation locally
 
 ## previous releases
+04/19/2019 
 
 ## contributing
   - send me an message explaining how to best contribute to the repository as a contributor.
@@ -107,7 +107,7 @@ Problem Solving Process:
   - Discord Server Channel (Voice and Text)
  
 ## versioning
-- VERSION 3.6.1
+- VERSION 3.6.1 (as of 6/7/2020 08:49:47 Coordinated Universal Time (UTC))
 
 ## creators
  - 2020 Keeyana Jones
