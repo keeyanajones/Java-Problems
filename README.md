@@ -16,16 +16,10 @@ keep track of my works with github blog post
 ## stage
 IN DEVELOPMENT
 
-## known issues / thing not properly done 
+## known issues / things not properly done 
 
 
 ## Table of Content
-- what does it do 
-- what is it
-- technology used
-- ambition of project
-- stage
-- known issues/ thing not properly don
 - quick start
 - status
 - what's included
