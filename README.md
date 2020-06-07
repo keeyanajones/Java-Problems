@@ -98,7 +98,7 @@ Problem Solving Process:
 ## running documentation locally
 
 ## previous releases
-04/19/2019 
+Apr 15, 2018 (2014)
 
 ## contributing
   - send me an message explaining how to best contribute to the repository as a contributor.
@@ -107,7 +107,7 @@ Problem Solving Process:
   - Discord Server Channel (Voice and Text)
  
 ## versioning
-- VERSION 3.6.1 (as of 6/7/2020 08:49:47 Coordinated Universal Time (UTC))
+- VERSION 3.6.1 (as of 06/07/2020 08:49:47 Coordinated Universal Time (UTC))
 
 ## creators
  - 2020 Keeyana Jones
