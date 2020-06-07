@@ -37,8 +37,7 @@ IN DEVELOPMENT
 - community 
 - versioning
 - creators
-- thanks
-- backers/sponsors
+- thanks/backers/sponsors
 - copyright and license
 
 ## quick start
