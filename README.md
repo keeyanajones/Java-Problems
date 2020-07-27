@@ -69,20 +69,6 @@ Problem Solving Process:
     - Optimize and Write the manual steps as comments or pseudo-code
     - Replace the comments or pseudo-code with real code
     - Optimize the code
-
-## installation
-- Tell other users how to install your project locally. Optionally, include a gif to make the process even more clear for other people.
-    
-## usage
-- instruct other people on how to use your project after they’ve installed it. This would also be a good place to include screenshots of your project in action with typical Problem Solving Process:
-
-  - Probe and Read the problem completely twice, Define the problem completely twice and Determine the problems seriousness
-  - Analyze causes, Explore context, Think creatively to brainstorm possible solutions, Generate, and evaluate
-  - Choose the best solution alternatives and map out support
-  - Solve the problem manually with 3 sets of sample data implementing the solution
-  - Optimize and Write the manual steps as comments or pseudo-code
-  - Replace the comments or pseudo-code with real code
-  - Optimize the code
     
 ## bug and feature request
 
