@@ -1,4 +1,4 @@
-
+ 
 import java.util.*;
 
 /**
@@ -11,7 +11,6 @@ import java.util.*;
 // numbers 1, 2, ..., 9 (in this order) 
 // such that the result is always 100. 
 public class allPossibilities {
-
   private static final int TARGET = 100;
   private static final int[] VALUES = { 1, 2, 3, 4, 5, 6, 7, 8, 9 };
 
